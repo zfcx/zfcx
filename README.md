@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zfcx
-- 👀 I’m interested in China
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pygame
 - 📫 How to reach me 1934118935@qq.com
