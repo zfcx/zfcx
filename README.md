@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @zfcx
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pygame
-- 📫 How to reach me 1934118935@qq.com
-- 😄 Pronouns: happy
-- ⚡ Fun fact: happy
-
+这是一个C语言学习者的学习路程
 <!---
 zfcx/zfcx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
